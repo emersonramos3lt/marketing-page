@@ -1,3 +1,3 @@
 # Screenshot
 
-![Screenshot](./capturar.PNG)
+![Screenshot](Capturar.PNG)
