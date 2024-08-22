@@ -4,4 +4,4 @@
 
 # Phone screenshot
 
-![Screenshot]()
+![Screenshot](phone-screenshot.PNG)
