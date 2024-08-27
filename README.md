@@ -9,3 +9,7 @@ and different tastes.
 - Motion design
 
 # Screenshots
+
+![Screenshot](./images/screenshot.PNG)
+![Screenshot](./images/screenshot-2.PNG)
+![Screenshot](./images/screenshot-3.PNG)
