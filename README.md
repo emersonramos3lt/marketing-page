@@ -1,7 +1,11 @@
-# Screenshot
+# Description
+On this page I used animations like scroll reveal and also motion design to make the page suitable for various devices 
+and different tastes.
 
-![Screenshot](Capturar.PNG)
+# Main Tools
+- HTML and CSS
+- JavaScript
+- Library ScrollReveal
+- Motion design
 
-# Phone screenshot
-
-![Screenshot](phone-screenshot.PNG)
+# Screenshots
