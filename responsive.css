@@ -1,0 +1,211 @@
+@media(max-width: 550px) {
+    nav #mainMenu {
+        height: 100vh;
+        position: fixed;
+
+        display: none;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+        background-color: #fff;
+
+        top: 0px;
+        right: 0px;
+        left: 0px;
+        bottom: 0px;
+
+        transition: top 1s ease 0s;
+        z-index: 1000;
+    }
+
+    nav #mainMenu #closeMenu {
+        display: block;
+        position: absolute;
+        top: 1.2rem;
+        right: 1.2rem;
+    }
+
+    nav #openMenu {
+        display: block;
+    }
+
+    nav #openMenu, #closeMenu {
+        color: #111;
+    }
+
+    nav #mainMenu li {
+        margin-bottom: 2.5rem;
+    }
+
+    nav #mainMenu li a {
+        font-size: 2rem;
+    }
+
+    main {
+        max-width: 350px;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .header-main {
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+    
+    .header-main h1 {
+        font-size: 2.5rem;
+    }
+
+    .header-main div {
+        gap: 1rem;
+    }
+    
+    .header-main a {
+        padding: 1rem;
+        font-size: 1rem;
+        width: 50%;
+    }
+
+    .items {
+        display: flex;
+        flex-flow: column wrap;
+        margin-bottom: 5rem;
+    }
+    
+    .items h1 {
+        text-align: center;
+        color: #232ED1;
+    }
+    
+    .grid {
+        display: flex;
+        flex-flow: column nowrap;
+    }
+    
+    .grid .text {
+        line-height: 38px;
+    }
+    
+    .circle {
+        background-color: #111;
+        padding: 1rem;
+        border-radius: 50%;
+    }
+    
+    .circle i {
+        color: #fff;
+    }
+
+    .section-1 h1 {
+        font-size: 3rem;
+    }
+    
+    .content, .content3 {
+        max-width: 350px; 
+        height: 80vh;
+    }
+    
+    .content h1, .content3 h1 {
+        font-size: 1rem;
+    }
+    
+    .content h2, .content3 h2 {
+        font-size: 1.8rem;
+    }
+    
+    .content div, .content3 div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .content div a, .content3 div a {
+        margin-right: 5rem;
+    }
+    
+     .a-1 {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+    
+     .a-2 {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+    
+    .content2 {
+        max-width: 380px;
+    }
+    
+    .content2 h1 {
+        font-size: 1rem;
+    }
+    
+    .content2 h2 {
+        font-size: 1.8rem;
+    }
+    
+    .content2 .a-1 {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+
+    .section-client {
+        max-width: 380px;
+        margin: auto;
+        margin-top: 5rem;
+        margin-bottom: 7rem;
+    }
+    
+    .section-client .title {
+        font-size: 1rem;
+    }
+    
+    .section-client p {
+        font-size: 1rem;
+    }
+
+    .columns {
+        display: flex;
+        flex-flow: column wrap;
+    }
+    
+    .columns img {
+        width: 2rem;
+        height: 2rem;
+    }
+    
+    .section-articles {
+        max-width: 380px;
+    }
+    
+    .section-articles h1 {
+        font-size: 1rem;
+    }
+    
+    .section-articles h2 {
+        font-size: 2rem;
+        text-align: center;
+    }
+    
+    .columns-articles {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .columns-articles .title-a {
+        font-size: 1.3rem;
+    }
+    
+    .columns-articles img {
+        width: 50%;
+    }
+
+    .contact {
+        max-width: 420px;
+        margin: auto;
+        height: 580px;
+    }
+}
