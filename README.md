@@ -10,19 +10,14 @@ and different tastes.
 
 # Screenshots
 
+## Home page
 ![Screenshot](./screenshot/screenshot-1.PNG)
 
-
-
-
+## Article section
 ![Screenshot](./screenshot/screenshot-2.PNG)
 
-
-
-
+## Pricing page
 ![Screenshot](./screenshot/screenshot-3.PNG)
 
-
-
-
-![Screenshot](./screenshot/screenshot-3.PNG)
+## Contact page
+![Screenshot](./screenshot/screenshot-4.PNG)
