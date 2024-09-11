@@ -3,12 +3,12 @@ On this page I used animations like scroll reveal and also motion design to make
 and different tastes.
 
 # Main Features
-- HTML and CSS
-- JavaScript
-- Library ScrollReveal
-- Motion design
-- JavaScript animations
-- Responsive menu and design
+- **HTML and CSS**
+- **JavaScript**
+- **Library ScrollReveal**
+- **Motion design**
+- **JavaScript animations**
+- **Responsive menu and design**
 
 # Screenshots
 
